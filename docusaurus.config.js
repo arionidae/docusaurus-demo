@@ -141,6 +141,15 @@ const config = {
             ],
           },
           {
+            title: 'Docs',
+            items: [
+              {
+                label: 'Gudides',
+                to: '/docs/category/advanced-topics',
+              },
+            ],
+          },
+          {
             title: 'Community',
             items: [
               {
